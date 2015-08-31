@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Banga -- Developer -- @banga_carnegie
 
 # THANKS
 
-    <name>
+    @steve_waweru and @felix_ongati
 
 # TECHNOLOGY COLOPHON
-
+	Django
+	Django Rest Framework
+	Twitter Bootstrap
     HTML5, CSS3
     jQuery, Modernizr
